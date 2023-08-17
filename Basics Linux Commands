@@ -28,7 +28,7 @@ pr -h	                                                Assigns a header to the fi
 pr -n	                                                Denotes the file with Line Numbers
 lp -nc , lpr c	                                      Prints “c” copies of the File
 lp-d lp-P                                             Specifies name of the printer
-apt-get                                               Command used to install and update packages
+apt-get                                                Command used to install and update packages
 
 mail -s 'subject'
 -c 'cc-address'
